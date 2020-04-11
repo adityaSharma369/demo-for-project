@@ -10,6 +10,6 @@ Mul = a * b
 print("the sum is",Mul)
 
 sub = a - b
-print("the sub is",sub)
+print("the sub is ------------",sub)
 
 
